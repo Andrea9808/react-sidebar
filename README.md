@@ -1,6 +1,7 @@
 # Progetto React Modal e Sidebar
 
 Questo progetto è una semplice applicazione React che dimostra l'uso di context, modali e sidebar con styled-components.
+Per visualizzare il progetto: https://andrea-sidebar.netlify.app/ (la sidebar è visualizzabile dal display versione M)
 
 ## Indice
 
